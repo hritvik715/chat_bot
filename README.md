@@ -1,3 +1,5 @@
+https://hritvik715.github.io/chat_bot/
+
 
 ### Google Gemini Chatbot
 Build your own Generative AI App using Google Gemini API with Vanilla JavaScript. Create AI App like Google Gemini or ChatGPT step by step tutorial.
